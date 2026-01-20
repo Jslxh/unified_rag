@@ -331,7 +331,7 @@ def delete_document(filename):
 
 # ============ MAIN APP ============
 
-st.title("RAG System - Document Q&A")
+st.title("RAG Assistant")
 st.markdown("---")
 
 # Tabs for different operations
